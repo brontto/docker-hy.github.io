@@ -20,9 +20,6 @@ import {
 import Button from "./Button";
 import PagesContext from "../contexes/PagesContext";
 
-
-
-
 const StyledIcon = styled(FontAwesomeIcon)`
   color: black;
   margin-bottom: 1rem;
