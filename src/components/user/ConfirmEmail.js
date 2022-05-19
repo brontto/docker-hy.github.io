@@ -20,6 +20,10 @@ const StyledImage = styled.img`
   padding: 1rem 0;
 `;
 
+
+
+
+
 class ConfirmEmail extends React.Component {
   onClick = async (e) => {
     e.preventDefault();
