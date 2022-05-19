@@ -20,4 +20,5 @@ const courseSettings = {
   ],
 }
 
+
 module.exports = courseSettings
